@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/scala-demo/target/classes" />
+    <output-test url="file://$MODULE_DIR$/scala-demo/target/test-classes" />
+    <content url="file://$MODULE_DIR$/scala-demo">
+      <sourceFolder url="file://$MODULE_DIR$/scala-demo/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scala-demo/src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/scala-demo/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.11.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.specs2:specs2-core_2.11:2.4.16" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.specs2:specs2-matcher_2.11:2.4.16" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.specs2:specs2-common_2.11:2.4.16" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.scalaz:scalaz-core_2.11:7.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.scala-lang.modules:scala-parser-combinators_2.11:1.0.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.scalaz:scalaz-concurrent_2.11:7.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.scalaz:scalaz-effect_2.11:7.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.scalatest:scalatest_2.11:2.2.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.scala-lang:scala-reflect:2.11.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.scala-lang.modules:scala-xml_2.11:1.0.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:6.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.48" level="project" />
+  </component>
+  <component name="sonarModuleSettings">
+    <option name="localAnalysisScripName" value="&lt;PROJECT&gt;" />
+    <option name="serverName" value="&lt;PROJECT&gt;" />
+  </component>
+</module>

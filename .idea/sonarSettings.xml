@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="projectSettings">
+    <option name="alternativeWorkingDirPath" value="" />
+    <option name="localAnalysisScripName" value="&lt;NO LOCAL ANALYSIS&gt;" />
+    <option name="resources">
+      <list>
+        <Resource>
+          <option name="creationDate" value="1481471030000" />
+          <option name="date" value="1481475888000" />
+          <option name="id" value="4" />
+          <option name="key" value="org.mome.jdemo:demo-j8" />
+          <option name="longName" value="demo-j8" />
+          <option name="name" value="demo-j8" />
+          <option name="qualifier" value="TRK" />
+          <option name="scope" value="PRJ" />
+          <option name="version" value="1.0-SNAPSHOT" />
+        </Resource>
+      </list>
+    </option>
+    <option name="serverName" value="local" />
+    <option name="useAlternativeWorkingDir" value="false" />
+    <option name="workingDirSelection" value="&lt;PROJECT&gt;" />
+  </component>
+</project>
