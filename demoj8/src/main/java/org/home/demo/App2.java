@@ -12,27 +12,27 @@ public class App2
     @Generated("org.home.manual")
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
+        System.out.println( "Hi Pix!" );
     }
 }
