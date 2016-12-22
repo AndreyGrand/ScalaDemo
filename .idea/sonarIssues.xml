@@ -28,6 +28,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/demoj8/src/main/java/org/home/demo/Infinity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/demoj8/src/main/java/org/home/demo/SimpleDTO.java">
           <value>
             <set />
@@ -59,6 +64,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/demoj8/src/test/java/org/mome/jdemo/CalcFunctionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/scala-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/scala-demo/src/main/scala/org/mome/jdemo/SimpleDemo.scala">
           <value>
             <set />
           </value>

@@ -1,7 +1,12 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-
+<parent>
+    <groupId>org.mome.jdemo</groupId>
+    <artifactId>demo-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <relativePath>../pom.xml</relativePath>
+</parent>
   <groupId>org.mome.jdemo</groupId>
   <artifactId>demo-j8</artifactId>
   <version>1.0-SNAPSHOT</version>
@@ -15,11 +20,6 @@
 
   <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-      <!--<sonar.issue.ignore.allfile>r1</sonar.issue.ignore.allfile>-->
-      <!--<sonar.issue.ignore.allfile.r1>Generated</sonar.issue.ignore.allfile.r1>-->
-      <sonar.exclusions>**/*DTO.java,**/*VO.java></sonar.exclusions>
-      <sonar.jacoco.reportMissing.force.zero>true</sonar.jacoco.reportMissing.force.zero>
-      <!--<sonar.issue.ignore.block>GeneratedStart,GeneratedEnd</sonar.issue.ignore.block>-->
   </properties>
 
   <dependencies>
